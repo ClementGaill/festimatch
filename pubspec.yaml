@@ -39,7 +39,7 @@ dependencies:
   showcaseview: ^4.0.1
   fluttertoast: ^8.2.12
   logger: ^2.5.0
-  flutter_swipable: ^1.2.1
+  flutter_card_swiper: ^7.0.2
   lucide_icons_flutter: ^1.2.9
   firebase_core: ^3.12.1
 
