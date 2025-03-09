@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153656827742",
+    "project_id": "festimatch",
+    "storage_bucket": "festimatch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153656827742:android:980ccce56f95ccc237f9cf",
+        "android_client_info": {
+          "package_name": "com.example.festimatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2MVgmDpvJIjWvhxjvei-E13gsDhpmnbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
