@@ -1,4 +1,4 @@
-import 'package:festimatch/Pages/NavBar/home.dart';
+import 'package:festimatch/Pages/NavBar/navbar.dart';
 import 'package:festimatch/Widgets/Frontend/colors.dart';
 import 'package:festimatch/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      home: HomePage(),
+      home: NavBar(),
     );
   }
 }

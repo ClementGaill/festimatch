@@ -40,6 +40,7 @@ dependencies:
   fluttertoast: ^8.2.12
   logger: ^2.5.0
   flutter_card_swiper: ^7.0.2
+  floating_bottom_navigation_bar: ^1.5.2
   lucide_icons_flutter: ^1.2.9
   firebase_core: ^3.12.1
 
