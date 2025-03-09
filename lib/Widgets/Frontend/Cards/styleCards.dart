@@ -1,3 +1,5 @@
+// ignore_for_file: file_names, use_super_parameters, deprecated_member_use
+
 import 'package:flutter/material.dart';
 
 class CustomCard extends StatelessWidget {

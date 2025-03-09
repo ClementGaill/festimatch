@@ -1,3 +1,5 @@
+// ignore_for_file: file_names
+
 import 'package:flutter_card_swiper/flutter_card_swiper.dart';
 import 'package:flutter/material.dart';
 

@@ -9,7 +9,7 @@ const secondaryColor = Color(0xFF99FFFE);
 const secondaryFgColor = Color(0xFF99FFFE);
 const accentColor = Color(0xFF93AAAA);
 const accentFgColor = Color(0xFF414B4B);
-const greyColor = Color.fromARGB(255, 216, 206, 200);
+const greyColor = Color.fromARGB(255, 224, 220, 217);
 const errorColor = Color(0xFFFFA199);
   
 const colorScheme = ColorScheme(
