@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyC2MVgmDpvJIjWvhxjvei-E13gsDhpmnbw',
-    appId: '1:153656827742:android:980ccce56f95ccc237f9cf',
+    appId: '1:153656827742:android:6efc4ad3858ea1f037f9cf',
     messagingSenderId: '153656827742',
     projectId: 'festimatch',
     storageBucket: 'festimatch.firebasestorage.app',
@@ -59,10 +59,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCf553--8rS1wSy72M1x6iHs9L0B88lB14',
-    appId: '1:153656827742:ios:f2013935cc4afa9437f9cf',
+    appId: '1:153656827742:ios:ee790eebfef2f62037f9cf',
     messagingSenderId: '153656827742',
     projectId: 'festimatch',
     storageBucket: 'festimatch.firebasestorage.app',
-    iosBundleId: 'com.example.festimatch',
+    iosBundleId: 'com.app.festimatch',
   );
+
 }
